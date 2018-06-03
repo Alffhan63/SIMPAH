@@ -1,4 +1,6 @@
 <!--Alfhan Rizky Fauzan GG-->
+
+<!--orang orang pada gak bener-->
 <?php
 
 date_default_timezone_set('Asia/Jakarta');
